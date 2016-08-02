@@ -1,0 +1,6 @@
+[submodule "nl-bayes"]
+	path = nl-bayes
+	url = https://github.com/npd/nl-bayes.git
+[submodule "da3d"]
+	path = da3d
+	url = https://github.com/npd/da3d.git
